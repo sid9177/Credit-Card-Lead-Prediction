@@ -1,9 +1,12 @@
 # Credit-Card-Lead-Prediction
 Hackathon
 
-Steps Followed:
+Notebooks descriptions:
+1. Credit Card Lead Prediction.ipynb - Python notebook with ML models manually called and predicted by creating functions
+2. Credit_Lead_Prediction_PyCaret.ipynb - Python notebook with Pycaret implementation from model development to pipeline deployment.
+3. Loading the pipeline and predictions - Shows the loading of the pickle file and predictions on the test data.
 
-Steps Followed:
+Steps Followed in Credit Card Lead Prediction.ipynb notebook:
 1.	Importing Libraries
  
 Libraries imported were numpy, Pandas, Matplotlib, Seaborn, Sci-kit learn, Category Encoders, XGBOOST, CATBOOST, LGBOOST
